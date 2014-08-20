@@ -1,0 +1,76 @@
+
+
+The easiest way to do it, is through ssh, this will work for Linux/Mac
+ 1.
+Open terminal to create ssh keys:
+cd ~                 #Your home directory
+ssh-keygen -t rsa    #Press enter for all values
+
+ 2.
+Give the git administrator your ~/.ssh/id_rsa.pub key and next time you push, no password required.
+
+ 
+For Windows (Only works if the commit program is capable of using certificates/private & public ssh keys)
+ 1.Use Putty Gen to generate a key
+ 2.Export the key as an open SSH key
+ 3.Give the git administrator your id_rsa.pub
+ 
+For a walkthrough on putty gen for the above steps, please see http://ask-leo.com/how_do_i_create_and_use_public_keys_with_ssh.html.
+
+
+
+ 
+share|improve this answer
+ 
+
+
+edited Aug 4 at 12:11
+
+
+
+
+Qantas 94 Heavy
+7,547112743
+ 
+
+
+answered Dec 21 '11 at 11:03
+
+
+
+
+First Zero
+3,3081425
+ 
+
+
+
+
+
+
+
+
+
+
+
+   
+
+  
+
+
+
+On Windows: If you are using the git bash window the terminal commands also work. The only thing is you must be certain you want to overwrite the default id_rsa file, and you must type y when prompted if you want to overwrite the current id_rsa key.–  Agustín AmenabarMay 6 '13 at 19:49
+ 
+
+
+
+
+
+5
+
+   
+
+
+
+"give the git administrator"... how?? command please!–  DiAlexMar 18 at 22:40 
+
