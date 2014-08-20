@@ -1,0 +1,283 @@
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 4:36 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH); Bu, Hai-Qing (Andy,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [IM CM PM]] SM-9.4x-DAILY - 20140727234539 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [IM CM PM]] SM-9.4x-DAILY - 20140727234539 - BAT (Ruby) <http://16.186.72.7/tasks/21894> 	 
+Owner:	 zhou.ai-dong@hp.com;hai-qing.bu@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 4:16 PM
+To:	Bu, Hai-Qing (Andy,HPSW-R&D-SH); Wang, Pei-An (PeiAn, SM R&D AnT); Gui, Yan-Zhong (Bill, SM R&D AnT); Li, Jian; PDL HPSW-SM-Apps-Dev; Niu, Zhi-Gang (Neilson,  SM R&D QA); Zhou, Ai-Dong (HPSW-R&D-SH); Cai, Jun (SM R&D Apps); Yan, Wei (Wilson, HPSW-R&D-SH); Zheng, Xiang (Sean, HPSW-R&D-SH); Huang, Angela (Angela,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[SM-FPESMA_OOB WS soapUI-nonPD] SM-9.4x-Apps-DEV - 20140729132410 - BAT (SoapUI-OOB WS soapUI)" is finished.
+
+
+Test Assets:
+
+    
+
+Summary results:	 62 total - 62 passed - 0 failed - 0 no run 	
+Category:	 SoapUI-OOB WS soapUI	 
+SVN branch:	 branches/9.4x/9.4xmain	 
+Tags:	 	
+Browser:	 	
+
+Subtasks:
+
+Category	 Components	 Builds	 Unl	 Status	 Machine	 
+Deploy 	Server | Application | Webtier 
+{"SERVER"=>{"branch"=>"SM-9.4x-Apps-DEV", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-Apps-DEV\\20140729132410"}}, "WEB"=>{"branch"=>"SM-9.4x-Apps-DEV", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-Apps-DEV\\20140729132410"}}}	 	Finished	 itsamqavm281 <http://16.186.72.7/machines/305> 	 
+Test 	SM Server: itsamqavm281 
+SM Server Port: 13080 
+Web URL: http://16.187.186.61:8086/sm/index.do 			Finished	 itsamqavm281 <http://16.186.72.7/machines/305> 	 
+
+For more task details, please refer to [SM-FPESMA_OOB WS soapUI-nonPD] SM-9.4x-Apps-DEV - 20140729132410 - BAT (SoapUI-OOB WS soapUI) <http://16.186.72.7/tasks/21943> .
+
+________________________________
+
+Dashboard <http://16.186.72.7/dashboard/>  | Automation Wiki <http://rndwiki.atlanta.hp.com/confluence/display/rdesel/SM+QA+Automation>  | Contact SMA <mailto:selsma@hp.com>  
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 3:17 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21819> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 3:11 PM
+To:	Bu, Hai-Qing (Andy,HPSW-R&D-SH); Li, Jian; Wang, Pei-An (PeiAn, SM R&D AnT); Xie, Zhang-Hui (Sasha, SM R&D Apps QA); Wu, Hong-Wei (Kadin, SM R&D Apps QA); Niu, Zhi-Gang (Neilson,  SM R&D QA); Zhou, Ai-Dong (HPSW-R&D-SH); PDL HPSW-SM-Apps-Dev; Zheng, Jian-Xin (Jacky, HPSW-R&D-SH); Yan, Wei (Wilson, HPSW-R&D-SH); Zheng, Xiang (Sean, HPSW-R&D-SH); Huang, Angela (Angela,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[SM-FPESMA_OOB WS soapUI - PD] SM-9.4x-Apps-DEV - 20140729132410 - ART (SoapUI-OOB WS soapUI)" is finished.
+
+
+Test Assets:
+
+    
+
+Summary results:	 62 total - 59 passed - 2 failed - 1 no run 	
+Category:	 SoapUI-OOB WS soapUI	 
+SVN branch:	 branches/9.4x/9.4xmain	 
+Tags:	 	
+Browser:	 	
+
+Subtasks:
+
+Category	 Components	 Builds	 Unl	 Status	 Machine	 
+Deploy 	Server | Application | Webtier 
+{"SERVER"=>{"branch"=>"SM-9.4x-Apps-DEV", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-Apps-DEV\\20140729132410"}}, "WEB"=>{"branch"=>"SM-9.4x-Apps-DEV", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-Apps-DEV\\20140729132410"}}}	 	Finished	 itsamqavm281 <http://16.186.72.7/machines/305> 	 
+Test 	SM Server: itsamqavm281 
+SM Server Port: 13080 
+Web URL: http://16.187.186.61:8086/sm/index.do 			Finished	 itsamqavm281 <http://16.186.72.7/machines/305> 	 
+
+For more task details, please refer to [SM-FPESMA_OOB WS soapUI - PD] SM-9.4x-Apps-DEV - 20140729132410 - ART (SoapUI-OOB WS soapUI) <http://16.186.72.7/tasks/21942> .
+
+________________________________
+
+Dashboard <http://16.186.72.7/dashboard/>  | Automation Wiki <http://rndwiki.atlanta.hp.com/confluence/display/rdesel/SM+QA+Automation>  | Contact SMA <mailto:selsma@hp.com>  
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 3:11 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH); Bu, Hai-Qing (Andy,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "9.40 Apps -deploy 288 pd_enabled Cloned" is finished.
+
+
+Test Assets:
+
+
+None.
+
+
+Subtasks:
+
+Category	 Components	 Builds	 Unl	 Status	 Machine	 
+Deploy 	Server | Application | Webtier 
+{"SERVER"=>{"branch"=>"SM-9.4x-DAILY", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-DAILY\\20140727234539"}}, "WEB"=>{"branch"=>"SM-9.4x-DAILY", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-DAILY\\20140727234539"}}}	 	Finished	 itsamqavm288 <http://16.186.72.7/machines/310> 	 
+
+For more task details, please refer to 9.40 Apps -deploy 288 pd_enabled Cloned <http://16.186.72.7/tasks/21944> .
+
+________________________________
+
+Dashboard <http://16.186.72.7/dashboard/>  | Automation Wiki <http://rndwiki.atlanta.hp.com/confluence/display/rdesel/SM+QA+Automation>  | Contact SMA <mailto:selsma@hp.com>  
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 3:01 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21788> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 3:01 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21788> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 2:58 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH); Bu, Hai-Qing (Andy,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [IM CM PM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [IM CM PM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21818> 	 
+Owner:	 zhou.ai-dong@hp.com;hai-qing.bu@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 2:57 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21788> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 2:53 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21788> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 2:11 PM
+To:	Bu, Hai-Qing (Andy,HPSW-R&D-SH); Wang, Pei-An (PeiAn, SM R&D AnT); Gui, Yan-Zhong (Bill, SM R&D AnT); Li, Jian; PDL HPSW-SM-Apps-Dev; Niu, Zhi-Gang (Neilson,  SM R&D QA); Zhou, Ai-Dong (HPSW-R&D-SH); Cai, Jun (SM R&D Apps); Yan, Wei (Wilson, HPSW-R&D-SH); Zheng, Xiang (Sean, HPSW-R&D-SH); Huang, Angela (Angela,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[SM-FPESMA_OOB WS soapUI-nonPD] SM-9.4x-Apps-DEV - 20140729132410 - BAT (SoapUI-OOB WS soapUI)" is triggered.
+
+
+Build:
+
+Branch:	 SM-9.4x-Apps-DEV	 
+Name:	 20140729132410 <http://16.186.72.7/builds/8587> 	 
+
+Task:
+
+Type:	 BAT	 
+Name:	 [SM-FPESMA_OOB WS soapUI-nonPD] SM-9.4x-Apps-DEV - 20140729132410 - BAT (SoapUI-OOB WS soapUI) <http://16.186.72.7/tasks/21943> 	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 2:11 PM
+To:	Bu, Hai-Qing (Andy,HPSW-R&D-SH); Li, Jian; Wang, Pei-An (PeiAn, SM R&D AnT); Xie, Zhang-Hui (Sasha, SM R&D Apps QA); Wu, Hong-Wei (Kadin, SM R&D Apps QA); Niu, Zhi-Gang (Neilson,  SM R&D QA); Zhou, Ai-Dong (HPSW-R&D-SH); PDL HPSW-SM-Apps-Dev; Zheng, Jian-Xin (Jacky, HPSW-R&D-SH); Yan, Wei (Wilson, HPSW-R&D-SH); Zheng, Xiang (Sean, HPSW-R&D-SH); Huang, Angela (Angela,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[SM-FPESMA_OOB WS soapUI - PD] SM-9.4x-Apps-DEV - 20140729132410 - ART (SoapUI-OOB WS soapUI)" is triggered.
+
+
+Build:
+
+Branch:	 SM-9.4x-Apps-DEV	 
+Name:	 20140729132410 <http://16.186.72.7/builds/8587> 	 
+
+Task:
+
+Type:	 ART	 
+Name:	 [SM-FPESMA_OOB WS soapUI - PD] SM-9.4x-Apps-DEV - 20140729132410 - ART (SoapUI-OOB WS soapUI) <http://16.186.72.7/tasks/21942> 	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 1:06 PM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH); Bu, Hai-Qing (Andy,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(DC)_Legacy Features by Component] SM-9.4x-DAILY - 20140727234539 - BAT (Ruby)" is finished.
+
+
+Test Assets:
+
+    
+
+Summary results:	 121 total - 103 passed - 18 failed - 0 no run 	
+Category:	 Ruby	 
+SVN branch:	 branches/9.4x/9.4xmain	 
+Tags:	 sm9.40_(DC)_Legacy Features by Component	 
+Browser:	 Internet Explorer9	 
+
+Subtasks:
+
+Category	 Components	 Builds	 Unl	 Status	 Machine	 
+Deploy 	Server | Application | Webtier 
+{"SERVER"=>{"branch"=>"SM-9.4x-DAILY", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-DAILY\\20140727234539"}}, "WEB"=>{"branch"=>"SM-9.4x-DAILY", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-DAILY\\20140727234539"}}}	 	Finished	 itsamqavm283 <http://16.186.72.7/machines/307> 	 
+Test 	SM Server: itsamqavm283 
+SM Server Port: 13080 
+Web URL: http://16.187.186.224:8087/sm/index.do 			Finished	 itsamqavm283 <http://16.186.72.7/machines/307> 	 
+
+For more task details, please refer to [sm9.40_(DC)_Legacy Features by Component] SM-9.4x-DAILY - 20140727234539 - BAT (Ruby) <http://16.186.72.7/tasks/21901> .
+
+________________________________
+
+Dashboard <http://16.186.72.7/dashboard/>  | Automation Wiki <http://rndwiki.atlanta.hp.com/confluence/display/rdesel/SM+QA+Automation>  | Contact SMA <mailto:selsma@hp.com>  
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 10:37 AM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21788> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 10:24 AM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SC SD]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SC SD]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21817> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 10:23 AM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SC SD]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SC SD]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21817> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 10:10 AM
+To:	Zhou, Ai-Dong (HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby)" is cancelled.
+
+
+Task:
+
+Name:	 [sm9.40_(SAFIR)_Legacy Features by Module - [SLM ChM]] SM-9.4x-DAILY - 20140724130437 - BAT (Ruby) <http://16.186.72.7/tasks/21788> 	 
+Owner:	 zhou.ai-dong@hp.com	 
+From:	PDL HPSW_ITSM_SMA
+Sent:	Tuesday, July 29, 2014 12:16 AM
+To:	Bu, Hai-Qing (Andy,HPSW-R&D-SH); Wang, Pei-An (PeiAn, SM R&D AnT); Gui, Yan-Zhong (Bill, SM R&D AnT); Li, Jian; PDL HPSW-SM-Apps-Dev; Niu, Zhi-Gang (Neilson,  SM R&D QA); Zhou, Ai-Dong (HPSW-R&D-SH); Cai, Jun (SM R&D Apps); Yan, Wei (Wilson, HPSW-R&D-SH); Zheng, Xiang (Sean, HPSW-R&D-SH); Huang, Angela (Angela,HPSW-R&D-SH)
+Subject:	[HUMMER Notice] Task "[SM-FPESMA_OOB WS soapUI-nonPD] SM-9.4x-Apps-DEV - 20140728212604 - BAT (SoapUI-OOB WS soapUI)" is finished.
+
+
+Test Assets:
+
+    
+
+Summary results:	 62 total - 62 passed - 0 failed - 0 no run 	
+Category:	 SoapUI-OOB WS soapUI	 
+SVN branch:	 branches/9.4x/9.4xmain	 
+Tags:	 	
+Browser:	 	
+
+Subtasks:
+
+Category	 Components	 Builds	 Unl	 Status	 Machine	 
+Deploy 	Server | Application | Webtier 
+{"SERVER"=>{"branch"=>"SM-9.4x-Apps-DEV", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-Apps-DEV\\20140728212604"}}, "WEB"=>{"branch"=>"SM-9.4x-Apps-DEV", "build"=>{"ftp_server"=>"orot", "build_path"=>"SM-9.4x-Apps-DEV\\20140728212604"}}}	 	Finished	 itsamqavm281 <http://16.186.72.7/machines/305> 	 
+Test 	SM Server: itsamqavm281 
+SM Server Port: 13080 
+Web URL: http://16.187.186.61:8086/sm/index.do 			Finished	 itsamqavm281 <http://16.186.72.7/machines/305> 	 
+
+For more task details, please refer to [SM-FPESMA_OOB WS soapUI-nonPD] SM-9.4x-Apps-DEV - 20140728212604 - BAT (SoapUI-OOB WS soapUI) <http://16.186.72.7/tasks/21935> .
+
+________________________________
+
+Dashboard <http://16.186.72.7/dashboard/>  | Automation Wiki <http://rndwiki.atlanta.hp.com/confluence/display/rdesel/SM+QA+Automation>  | Contact SMA <mailto:selsma@hp.com>  
